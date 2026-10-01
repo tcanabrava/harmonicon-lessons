@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "kind": "lessons",
+  "id": "harmonicon-lessons",
+  "name": "Harmonicon lessons",
+  "version": "1.0.0",
+  "requires": {
+    "harmonicon": ">=0.0.13",
+    "lesson_format": 1
+  }
+}
